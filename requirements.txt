@@ -1,0 +1,19 @@
+# Core Data Handling
+pandas==2.2.1
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# File Formats 
+pyarrow==15.0.2
+
+# ML Models & Tools
+scikit-learn==1.4.2
+xgboost==2.0.3
+joblib==1.4.0
+
+# SQL Support 
+SQLAlchemy==2.0.29
+

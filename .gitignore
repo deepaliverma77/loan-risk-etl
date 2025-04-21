@@ -1,0 +1,13 @@
+# Ignore virtual environment
+venv/
+
+# Ignore data files (optional)
+data/*.csv
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Output files
+output/
